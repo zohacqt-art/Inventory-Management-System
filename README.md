@@ -2,7 +2,7 @@
 
 A console-based Inventory Management System built in C, designed to help small businesses and stores efficiently track, manage, and report on their product inventory in real time.
 
-> _This system is built as a part of first semester Computer Programming Project by the students of NED University of Engineering and Technology, Karachi, Pakistan._
+
 
 ---
 
@@ -40,17 +40,5 @@ A console-based Inventory Management System built in C, designed to help small b
 
 ---
 
-## 👥 Team Contributions
 
-| Member | Contribution |
-|--------|-------------|
-| **Muhammad Mutahhar Khan** | Built Add Products, Delete Products, Main Interface ( Menu and Frontend)  & compilation of the code. Test the whole program. |
-| **Ayesha Danyial** | Built Update Products, Low Stock Report. Deals with core Filing concepts (saves and loads data). Test the whole program.|
-| **Muhammad Moosa Iqbal** | Built Sell Products, Display Products |
-
----
-
-## 💡 What We Learned
-
-This project was a valuable step in our first-year BE journey. It strengthened our C programming skills, including data structures, file handling, and modular design, while giving us practical experience in real-world problem solving and efficient system development.
 
